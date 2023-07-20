@@ -4,6 +4,7 @@ void main() {
   // 값을 넣지 않으면 null로 기본값이 들어가는데 late를 이용하여 나중에 값을 지정해줄 수 있다.
   late String nico;
   late final String nico1;
+  // print(nico);
   nico = 'nico';
   nico1 = 'nico';
 
@@ -11,4 +12,7 @@ void main() {
   nico2 = 'nico';
   print(nico2);
 
+  String name;
+  // print(name);
+  name = '123';
 }
