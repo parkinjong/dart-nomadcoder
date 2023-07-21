@@ -1,3 +1,4 @@
+// 미리 사용할 수 있는 요소들을 선언하여 제한함
 enum Team { red, blue }
 
 enum XPLevel { beginner, medium, pro }
